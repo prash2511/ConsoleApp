@@ -1,0 +1,15 @@
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.exe
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.deps.json
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.runtimeconfig.json
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.dll
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.pdb
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.AssemblyInfo.cs
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.dll
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\refint\MyConsoleApp1.dll
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.pdb
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.genruntimeconfig.cache
+C:\Users\prash\Desktop\LTI Training\Learnings\Day03-C#.NetCore\MyConsoleApp1\MyConsoleApp1\obj\Debug\net6.0\ref\MyConsoleApp1.dll
